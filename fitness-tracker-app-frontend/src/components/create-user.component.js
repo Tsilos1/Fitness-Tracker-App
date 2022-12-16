@@ -49,6 +49,11 @@ export default class CreateUser extends Component {
       <input type="submit" value="Create User" className="btn btn-primary" />
     </div>
   </form>
+  <div> 
+    <center>
+        <img src="/gitfitbanner.png" width="800" alt=""></img>
+    </center>
+  </div>
 </div>
     )
   }

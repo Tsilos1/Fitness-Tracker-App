@@ -21,7 +21,5 @@ REACT documentation
 ## Outstanding bugs
 Edit page not functional
 
-How to install and run project
 
-How to use project
 

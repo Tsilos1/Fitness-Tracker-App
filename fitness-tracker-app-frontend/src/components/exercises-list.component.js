@@ -63,6 +63,11 @@ export default class ExercisesList extends Component {
       { this.exerciseList() }
     </tbody>
   </table>
+  <div> 
+    <center>
+        <img src="/gitfitbanner.png" width="800" alt=""></img>
+    </center>
+  </div>
 </div>
     )
   }
